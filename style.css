@@ -1,0 +1,23 @@
+body {
+    background-color: #C4FCEF;
+
+}
+
+.profile-img {
+    border-radius: 50%;
+}
+
+.redes {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+    vertical-align: top;
+    display: inline-flex;
+}
+
+.container {
+max-width: 800px;
+margin: 0 auto;
+padding: 0 20px;
+}
+
